@@ -1,3 +1,4 @@
+<img align="center" alt="LinkedIn Banner" width="100%" src="https://media.licdn.com/dms/image/v2/D4D16AQH2UyvSo1kWsQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703890392262?e=1731542400&v=beta&t=q3AmxjmEf8hi4bizIBZ4ot37lybSgWiHlzAYMpUjHfM" />
 - 👋 Hi, I’m @AniketPatel167
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently persuing Masters in Applied Computing at University of Windsor, Ontario, Canada
