@@ -1,4 +1,4 @@
-<img align="center" alt="LinkedIn Banner" width="100%" src="<iframe src="![Looney Tunes GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)" />
+![Looney Tunes GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 - 👋 Hi, I’m @AniketPatel167
 - 👀 I’m interested in Software Development
